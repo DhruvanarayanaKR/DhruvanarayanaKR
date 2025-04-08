@@ -1,7 +1,7 @@
-<h1 align="center">Hey there 👋, I'm Dhruvanarayana Kunjar Rajagopal</h1>
+<h1 align="center">Hey there 👋, I'm Dhruvanarayana KR</h1>
 
 <p align="center">
-  🎓 Engineering student at NMAMIT, NITTE <br>
+  🎓 Engineering student at NMAMIT, Nitte <br>
   💡 Passionate about building real-world tech solutions <br>
   💻 Exploring backend development, IoT, and scalable systems
 </p>
@@ -15,11 +15,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
 </p>
 
 ### 🌐 Domains & Interests
-- Backend Development with Spring Boot
-- Internet of Things (IoT) – ESP32-CAM, PIR, DHT11, Sensors
+- Backend Development with Spring Boot  
+- Internet of Things (IoT) – ESP32-CAM, PIR, DHT11, Sensors  
 - REST APIs & Software Integration
 
 ### 🔧 Tools & Platforms
@@ -51,9 +52,11 @@
 
 ---
 
-## 📊 LeetCode & GitHub
-- 🔗 [LeetCode Profile](https://leetcode.com/u/user3627Cn/)
-- 🛠️ [GitHub Projects](https://github.com/Dhruvanarayana-Kunjar-Rajagopal)
+## 📊 LeetCode & LinkedIn
+> 🖼️ This is my LeetCode profile – tracking 189+ solved problems with a 91.57% contest percentile!
+- 🔗 [LeetCode Profile](https://leetcode.com/u/user3627Cn/)  
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/dhruvanarayana-kr-45133b1b4/)
+
 
 ---
 
