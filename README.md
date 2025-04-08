@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Dhruvanarayana Kunjar Rajagopal</h1>
 
-<!--
-**DhruvanarayanaKR/DhruvanarayanaKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Engineering student at NMAMIT, NITTE <br>
+  💡 Passionate about building real-world tech solutions <br>
+  💻 Exploring backend development, IoT, and scalable systems
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### 🧠 Languages & Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+</p>
+
+### 🌐 Domains & Interests
+- Backend Development with Spring Boot
+- Internet of Things (IoT) – ESP32-CAM, PIR, DHT11, Sensors
+- REST APIs & Software Integration
+
+### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge" alt="Google Colab"/>
+</p>
+
+---
+
+## 🛠️ Projects & Highlights
+- **Smart Surveillance System using ESP32-CAM**  
+  Motion detection, temperature sensing, and real-time alerts  
+- **Backend APIs with Spring Boot**  
+  Built structured REST APIs with layered architecture  
+- **Medical Imaging Project**  
+  Worked with MRI images for rectal cancer segmentation  
+
+---
+
+## 🏆 Experience & Leadership
+- Co-Technical Coordinator for 4 major events at MIT Manipal:
+  - **Brain IT** – A multidisciplinary tech showdown  
+  - **Mind Maze** – Kahoot-based aptitude quiz  
+  - **Riddle Rush** – A fun ride of memes, clues & pop culture logic  
+  - **Incridea Showcase** – Where tech met creativity  
+
+---
+
+## 📊 LeetCode & GitHub
+- 🔗 [LeetCode Profile](https://leetcode.com/u/user3627Cn/)
+- 🛠️ [GitHub Projects](https://github.com/Dhruvanarayana-Kunjar-Rajagopal)
+
+---
+
+## ☕ Fun Fact
+I love solving riddles, building things from scratch, and occasionally getting lost in debug mode 🤓
+
+---
+
+<p align="center">"Keep it simple. Build it strong." 🚀</p>
