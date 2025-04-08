@@ -53,9 +53,18 @@
 ---
 
 ## 📊 LeetCode & LinkedIn
-> 🖼️ This is my LeetCode profile – tracking 189+ solved problems with a 91.57% contest percentile!
-- 🔗 [LeetCode Profile](https://leetcode.com/u/user3627Cn/)  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/dhruvanarayana-kr-45133b1b4/)
+
+<p align="center">
+  <a href="https://leetcode.com/u/user3627Cn/">
+    <img src="https://leetcard.jacoblin.cool/user3627Cn?theme=dark&ext=contest" alt="LeetCode Stats Card" />
+  </a>
+</p>
+
+<p align="center">
+  🔗 <a href="https://leetcode.com/u/user3627Cn/">LeetCode Profile</a> |
+  💼 <a href="https://www.linkedin.com/in/dhruvanarayana-kr-45133b1b4/">LinkedIn</a>
+</p>
+
 
 
 ---
