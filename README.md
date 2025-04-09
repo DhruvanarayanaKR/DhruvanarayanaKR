@@ -38,7 +38,7 @@
 - **Smart Surveillance System using ESP32-CAM**  
   Motion detection, temperature sensing, and real-time alerts
 - **NLP ChatBot in Java**
-  All in one companion including games,music,maths,questions
+   All in one companion including games,music,maths,questions
 - **Backend APIs with Spring Boot**  
   Built structured REST APIs with layered architecture  
 - **Medical Imaging Project**  
