@@ -19,8 +19,9 @@
 </p>
 
 ### 🌐 Domains & Interests
-- Backend Development with Spring Boot  
-- Internet of Things (IoT) – ESP32-CAM, PIR, DHT11, Sensors  
+- Backend Development with Spring Boot
+- NLP in JAVA 
+- Internet of Things (IoT)
 - REST APIs & Software Integration
 
 ### 🔧 Tools & Platforms
@@ -35,7 +36,9 @@
 
 ## 🛠️ Projects & Highlights
 - **Smart Surveillance System using ESP32-CAM**  
-  Motion detection, temperature sensing, and real-time alerts  
+  Motion detection, temperature sensing, and real-time alerts
+-**NLP ChatBot in Java**
+  All in one companion
 - **Backend APIs with Spring Boot**  
   Built structured REST APIs with layered architecture  
 - **Medical Imaging Project**  
@@ -44,11 +47,12 @@
 ---
 
 ## 🏆 Experience & Leadership
-- Co-Technical Coordinator for 4 major events at MIT Manipal:
+- Co-Technical Coordinator and Organizer for 4 major events at NMAMIT:
+-  - **CodeFortify Fiesta** – Where tech met creativity  
   - **Brain IT** – A multidisciplinary tech showdown  
   - **Mind Maze** – Kahoot-based aptitude quiz  
   - **Riddle Rush** – A fun ride of memes, clues & pop culture logic  
-  - **Incridea Showcase** – Where tech met creativity  
+ 
 
 ---
 
