@@ -179,10 +179,7 @@ Organized and coordinated multiple technical and entertainment events, including
 
 ---
 
-## ☕ Fun Fact
-
-I enjoy understanding how things work under the hood, building backend systems from scratch, and occasionally getting lost in debug mode 🤓
 
 <p align="center">
-  <i>"Keep it simple. Build it strong." 🚀</i>
+  <i>"Never Stop Learning." </i>
 </p>
