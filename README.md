@@ -83,20 +83,14 @@ When a job is submitted, the **job-service** persists it and publishes an event 
 
 **Tech Stack:** Java 21, Spring Boot 4.1, Apache Kafka, Spring Data JPA, H2, Maven, Docker, Docker Compose, JUnit 5, Mockito, Testcontainers, Swagger/OpenAPI
 
-### 🧠 NeuroNest AI
+### 🧠 Co-Learner AI
 
 **Intelligent Learning & Productivity Companion**
 
-AI-powered learning platform built with **Spring Boot, React, SQL and LLM APIs**.
+AI-powered learning platform built with **Spring Boot, React, SQL,PDF Processing and LLM APIs**.
 
 * Implemented RAG, semantic search, vector embeddings and document querying
 * Built JWT authentication, AI summaries and productivity features
-
-### 📚 StudyBuddy AI
-
-AI-powered learning platform developed during the **IBM SkillsBuild Internship**.
-
-* Built using **Spring Boot, React, TypeScript and JWT**
 * Implemented PDF text extraction, chunking, embeddings and asynchronous document processing
 
 ### 🔎 TruthTracker
@@ -106,12 +100,19 @@ Developed during the **Microsoft Elevate Internship**.
 * Built with **Node.js, Express, MongoDB and Python**
 * Integrated web scraping and AI-based analysis to help verify and contextualize information
 
-### 💬 MENTROAX
+### 💬 MENTORA-X
 
 AI-powered project focused on intelligent interaction and assistance.
 
 * Developed backend functionality and AI-driven features
 * Worked with **Java, Spring Boot and AI/LLM technologies**
+
+### 🩻 Rectal Cancer Detection Using ML
+
+Machine-learning project focused on detecting rectal cancer from medical imaging data.
+
+* Worked with MRI images and image-processing techniques
+* Used **Python, OpenCV, scikit-image and machine-learning libraries**
 
 ### 💊 Blockchain E-Prescription
 
@@ -127,12 +128,6 @@ IoT-based logistics and cargo management project.
 * Connected IoT components for cargo monitoring and tracking
 * Focused on real-time data collection and communication
 
-### 🩻 Rectal Cancer Detection Using ML
-
-Machine-learning project focused on detecting rectal cancer from medical imaging data.
-
-* Worked with MRI images and image-processing techniques
-* Used **Python, OpenCV, scikit-image and machine-learning libraries**
 
 ---
 
